@@ -37,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nihar-patel4121/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Nihar-patel4121/Leetcode/tree/master/1143-longest-common-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Nihar-patel4121/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
