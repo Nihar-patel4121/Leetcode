@@ -59,4 +59,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Nihar-patel4121/Leetcode/tree/master/0175-combine-two-tables) |
+## Stack
+|  |
+| ------- |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Nihar-patel4121/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Nihar-patel4121/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Nihar-patel4121/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
