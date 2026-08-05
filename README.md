@@ -83,11 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nihar-patel4121/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Nihar-patel4121/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [3310-remove-methods-from-project](https://github.com/Nihar-patel4121/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Nihar-patel4121/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nihar-patel4121/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/Nihar-patel4121/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nihar-patel4121/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Nihar-patel4121/Leetcode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
