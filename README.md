@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Nihar-patel4121/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Nihar-patel4121/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Nihar-patel4121/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Nihar-patel4121/Leetcode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -112,11 +113,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Nihar-patel4121/Leetcode/tree/master/0041-first-missing-positive) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Nihar-patel4121/Leetcode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3731-find-missing-elements](https://github.com/Nihar-patel4121/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nihar-patel4121/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Nihar-patel4121/Leetcode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Graph Theory
 |  |
 | ------- |
